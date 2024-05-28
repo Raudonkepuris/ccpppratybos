@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "stdio.h": "c",
+        "math.h": "c",
+        "corecrt_math.h": "c",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "stdexcept": "cpp",
+        "xmemory": "cpp",
+        "random": "cpp",
+        "string": "cpp",
+        "xutility": "cpp"
+    },
+    "cmake.configureOnOpen": false,
+    "C_Cpp.errorSquiggles": "disabled"
+}

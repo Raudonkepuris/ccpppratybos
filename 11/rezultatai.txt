@@ -1,0 +1,18 @@
+Vardas: Jonas
+Studiju kursas: 2
+Egzaminu vidurkis: 8.2
+Vardas: Amelija
+Studiju kursas: 4
+Egzaminu vidurkis: 8.6
+Vardas: Gabija
+Studiju kursas: 3
+Egzaminu vidurkis: 9.1
+Vardas: Elija
+Studiju kursas: 2
+Egzaminu vidurkis: 8.8
+Vardas: Patricija
+Studiju kursas: 4
+Egzaminu vidurkis: 8.4
+Vardas: Benas
+Studiju kursas: 2
+Egzaminu vidurkis: 8.5
